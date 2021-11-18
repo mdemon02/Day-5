@@ -1,0 +1,35 @@
+.div{
+	color: green;
+	font-size: 40px;
+	border: 2px solid red;
+	background: #4d94ff;
+}
+.heading-1{
+	/*font-size: 52px; color: black; background: #ffbf00; border: 2px solid #ff0000;*/
+	font-size: 52px;
+	color: black ;
+	background: #ffbf00;
+	border: 2px solid #ff0000;
+}
+#heading-4{
+	font-size: 3em;
+}
+.box{
+	width: 200px;
+	height: 200px;
+	 
+}
+.red{
+	background: red;
+	padding:25px;
+}
+.green{
+	background: green;
+	margin: 50px 55px;
+
+}
+.heading-2{
+	font-size: 32px;
+	color: orange;
+	background-color: yellow;
+}
